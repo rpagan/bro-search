@@ -1,0 +1,39 @@
+{
+    "bk": "1897",
+    "description": "Choppers on Top.",
+    "year": "Junior",
+    "major":  "Computer Science",
+    "involve": [
+            "Barcelona Study Abroad 2013",
+            "FASET Orientation Leader 2012",
+            "Freshman Activities Board 2011"
+
+    ],
+    "interests": [
+       "GT Athletics",
+       "Web Development",
+       "Zaxby's",
+       "Roadtrips",
+       "Traveling",
+       "Gaming",
+       "Instagram Straight Flexin"
+
+    ],
+    "quotes" : [
+      "\"The Universe is constantly trying to enlighten you\"",
+      "\"Ask forgiveness rather than permission\"",
+      "\"To succeed, jump as quickly at opportunities as you do at conclusions\"",
+      "\"To own is to be able to give\""
+    ],
+
+
+    "id": "tylerlucas",
+    "images": [
+        "img/brothers/tyler.0.jpg",
+        "img/brothers/tyler.1.jpg",
+        "img/brothers/tyler.2.jpg",
+        "img/brothers/tyler.3.jpg",
+        "img/brothers/tyler.5.jpg"
+    ], 
+    "name": "Tyler Lucas"
+}

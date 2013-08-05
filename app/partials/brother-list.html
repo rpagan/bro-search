@@ -1,0 +1,27 @@
+<div class="container-fluid">
+  <div class="row-fluid">
+    <div class="span2">
+      <!--Sidebar content-->
+
+      Search: <input ng-model="query">
+      Sort by:
+      <select ng-model="orderProp">
+        <option value="name">Alphabetical</option>
+        <option value="age">BK</option>
+      </select>
+
+    </div>
+    <div class="span10">
+      <!--Body content-->
+
+      <ul class="brothers">
+        <li ng-repeat="brother in brothers | filter:query | orderBy:orderProp" class="thumbnail">
+          <a href="#/brothers/{{brother.id}}" class="thumb"><img ng-src="{{brother.imageUrl}}"></a>
+          <a href="#/brothers/{{brother.id}}">{{brother.name}}</a>
+          <p>{{brother.snippet}}</p>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</div>
