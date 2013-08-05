@@ -1,0 +1,28 @@
+{
+    "bk": "1862",
+    "description": "Chillllllllll",
+    "year": "Senior",
+    "major":  "Computer Science",
+    "involve": [
+        "GT Research"
+    ],
+    "interests": [
+        "Anna",
+        "Zaxby's",
+        "Fishing",
+        "Volcanoes",
+        "Shane"
+    ],
+    "quotes" : [
+        "\"Rack City trick, Rack, Rack City\""
+    ],
+
+
+    "id": "hudsonchancy",
+    "images": [
+        "img/brothers/hudson.0.jpg",
+        "img/brothers/hudson.1.jpg",
+        "img/brothers/hudson.2.jpg"
+    ],
+    "name": "Hudson Chancy"
+}

@@ -1,0 +1,27 @@
+{
+    "bk": "1916",
+    "description": "My big is a pretty cool guy.",
+    "year": "Sophomore",
+    "major":  "Computer Science",
+    "involve": [
+        "Barcelona Study Abroad 2013",
+        "GITMAD 2012",
+        "Freshman Activities Board 2012"
+
+    ],
+    "interests": [
+        "The Nebulus"
+    ],
+    "quotes" : [
+        "\"If you ain't first, you're last\""
+    ],
+
+
+    "id": "hamiltongreene",
+    "images": [
+        "img/brothers/hamilton.0.jpg",
+        "img/brothers/hamilton.1.jpg",
+        "img/brothers/hamilton.2.jpg"
+    ],
+    "name": "Hamilton Greene"
+}

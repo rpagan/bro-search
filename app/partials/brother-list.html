@@ -1,3 +1,6 @@
+<style>
+    #snip{padding-top: 2px;}
+</style>
 <div class="container-fluid">
   <div class="row-fluid">
     <div class="span2">
@@ -18,7 +21,8 @@
         <li ng-repeat="brother in brothers | filter:query | orderBy:orderProp" class="thumbnail">
           <a href="#/brothers/{{brother.id}}" class="thumb"><img ng-src="{{brother.imageUrl}}"></a>
           <a href="#/brothers/{{brother.id}}">{{brother.name}}</a>
-          <p>{{brother.snippet}}</p>
+          <p id="snip">{{brother.snippet}} <br> BK {{brother.age}}</p>
+
         </li>
       </ul>
 

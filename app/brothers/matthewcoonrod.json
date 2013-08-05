@@ -1,0 +1,27 @@
+{
+    "bk": "1842",
+    "description": "ST MATTHEWS MTR FKR",
+    "year": "Super Senior",
+    "major":  "Mechanical Engineering",
+    "involve": [
+        "Oxford Study Abroad"
+    ],
+    "interests": [
+        "GT Athletics",
+        "Basketball",
+        "Roadtrips",
+        "Climbing"
+    ],
+    "quotes" : [
+        "\"Are you kidding me\""
+    ],
+
+
+    "id": "matthewcoonrod",
+    "images": [
+        "img/brothers/coonrod.0.jpg",
+        "img/brothers/coonrod.1.jpg",
+        "img/brothers/coonrod.2.jpg"
+    ],
+    "name": "Matthew Coonrod"
+}
