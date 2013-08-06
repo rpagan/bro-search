@@ -8,9 +8,18 @@
 
 <h1>{{brother.name}}</h1>
 
-<p id="bk">BK {{brother.bk}}</p>
+<p id="bk"><b>BK</b> {{brother.bk}}</p>
 
+<script>
+    $(document).ready(function(){
+        $("#position").hide();
+    })
+</script>
+
+<p id="position"><b>Position: </b>{{brother.position}}</p>
 <p><b>Description: </b>{{brother.description}}</p>
+<p><b>Favorite Aspects of Lambda Chi Alpha: </b>{{brother.aspects}}</p>
+
 
 <ul class="brother-thumbs">
   <li ng-repeat="img in brother.images">
@@ -44,7 +53,11 @@
     </dl>
   </li>
   <li>
-    <span>Quotes</span>
+    <span>Sports</span>
       <dd ng-repeat="item in brother.quotes">{{item}}</dd>
   </li>
+    <li>
+        <span>Quotes</span>
+        <dd ng-repeat="item in brother.quotes">{{item}}</dd>
+    </li>
 </ul>

@@ -2,121 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac19f21b-b74d-44fd-aacd-d6d3fac76caf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/brothers/coonrod.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/brothers/coonrod.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/brothers/coonrod.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/brothers/hamilton.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/brothers/hamilton.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/brothers/hamilton.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/brothers/hudson.0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/brothers/hudson.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/brothers/hudson.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/brothers/tyler.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/brothers/hamiltongreene.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/brothers/hudsonchancy.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/brothers/matthewcoonrod.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/brothers/dell-streak-7.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/brothers/dell-venue.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/brothers/droid-2-global-by-motorola.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/brothers/droid-pro-by-motorola.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/brothers/lg-axis.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/brothers/motorola-atrix-4g.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/brothers/motorola-bravo-with-motoblur.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/brothers/motorola-charm-with-motoblur.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/brothers/motorola-defy-with-motoblur.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/brothers/motorola-xoom.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/brothers/nexus-s.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/brothers/samsung-galaxy-tab.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/brothers/samsung-gem.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/brothers/samsung-mesmerize-a-galaxy-s-phone.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/brothers/samsung-showcase-a-galaxy-s-phone.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/brothers/samsung-transform.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/brothers/sanyo-zio.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/brothers/t-mobile-g2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/brothers/t-mobile-mytouch-4g.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/dell-streak-7.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/dell-streak-7.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/dell-streak-7.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/dell-streak-7.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/dell-streak-7.4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/dell-venue.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/dell-venue.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/dell-venue.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/dell-venue.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/dell-venue.4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/dell-venue.5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/droid-2-global-by-motorola.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/droid-2-global-by-motorola.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/droid-2-global-by-motorola.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/droid-pro-by-motorola.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/droid-pro-by-motorola.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/lg-axis.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/lg-axis.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/lg-axis.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-atrix-4g.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-atrix-4g.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-atrix-4g.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-atrix-4g.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-bravo-with-motoblur.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-bravo-with-motoblur.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-bravo-with-motoblur.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-charm-with-motoblur.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-charm-with-motoblur.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-charm-with-motoblur.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-defy-with-motoblur.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-defy-with-motoblur.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-defy-with-motoblur.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-xoom-with-wi-fi.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-xoom-with-wi-fi.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-xoom-with-wi-fi.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-xoom-with-wi-fi.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-xoom-with-wi-fi.4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-xoom-with-wi-fi.5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-xoom.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-xoom.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/motorola-xoom.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/nexus-s.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/nexus-s.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/nexus-s.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/nexus-s.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-galaxy-tab.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-galaxy-tab.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-galaxy-tab.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-galaxy-tab.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-galaxy-tab.4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-galaxy-tab.5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-galaxy-tab.6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-gem.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-gem.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-gem.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-mesmerize-a-galaxy-s-phone.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-mesmerize-a-galaxy-s-phone.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-mesmerize-a-galaxy-s-phone.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-mesmerize-a-galaxy-s-phone.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-showcase-a-galaxy-s-phone.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-showcase-a-galaxy-s-phone.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-showcase-a-galaxy-s-phone.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-transform.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-transform.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-transform.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-transform.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/samsung-transform.4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/sanyo-zio.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/sanyo-zio.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/sanyo-zio.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/t-mobile-g2.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/t-mobile-g2.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/t-mobile-g2.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/t-mobile-mytouch-4g.0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/t-mobile-mytouch-4g.1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/t-mobile-mytouch-4g.2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/t-mobile-mytouch-4g.3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/t-mobile-mytouch-4g.4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/brothers/t-mobile-mytouch-4g.5.jpg" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/img/brothers/tyler.5.jpg" afterPath="$PROJECT_DIR$/app/img/brothers/tyler.0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/favicon.ico" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/brothers/brothers.json" afterPath="$PROJECT_DIR$/app/brothers/brothers.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/brothers/hudsonchancy.json" afterPath="$PROJECT_DIR$/app/brothers/hudsonchancy.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/brothers/tylerlucas.json" afterPath="$PROJECT_DIR$/app/brothers/tylerlucas.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/partials/brother-detail.html" afterPath="$PROJECT_DIR$/app/partials/brother-detail.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/partials/brother-list.html" afterPath="$PROJECT_DIR$/app/partials/brother-list.html" />
     </list>
     <ignored path="bro-search.iws" />
@@ -137,10 +28,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="brother-detail.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="brother-detail.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/partials/brother-detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="15" column="6" selection-start="340" selection-end="340" vertical-scroll-proportion="0.2869898">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -149,7 +49,7 @@
       <file leaf-file-name="hudsonchancy.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/brothers/hudsonchancy.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="33" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+            <state line="3" column="28" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -167,16 +67,7 @@
       <file leaf-file-name="tylerlucas.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/brothers/tylerlucas.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="1" selection-start="717" selection-end="717" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hamiltongreene.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/brothers/hamiltongreene.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="19" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
+            <state line="3" column="16" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -185,16 +76,25 @@
       <file leaf-file-name="brother-list.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/partials/brother-list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="27" selection-start="35" selection-end="35" vertical-scroll-proportion="-0.625">
+            <state line="3" column="0" selection-start="81" selection-end="81" vertical-scroll-proportion="-1.875">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="brothers.json" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="92" selection-start="626" selection-end="626" vertical-scroll-proportion="-8.75">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="brothers.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/brothers/brothers.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="33" selection-start="169" selection-end="169" vertical-scroll-proportion="0.111386135">
+            <state line="6" column="33" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -213,12 +113,14 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/partials/brother-list.html" />
         <option value="$PROJECT_DIR$/app/brothers/hamiltongreene.json" />
-        <option value="$PROJECT_DIR$/app/brothers/hudsonchancy.json" />
         <option value="$PROJECT_DIR$/app/brothers/matthewcoonrod.json" />
         <option value="$PROJECT_DIR$/app/brothers/brothers.json" />
+        <option value="$PROJECT_DIR$/app/partials/brother-list.html" />
         <option value="$PROJECT_DIR$/app/brothers/tylerlucas.json" />
+        <option value="$PROJECT_DIR$/app/brothers/hudsonchancy.json" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/partials/brother-detail.html" />
       </list>
     </option>
   </component>
@@ -300,7 +202,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="partials" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -318,29 +220,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="brothers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bro-search" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bro-search" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="brothers" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -350,15 +230,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cumulus" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/img/brothers" />
       <recent name="$PROJECT_DIR$/app/img" />
+      <recent name="$PROJECT_DIR$/app/img/brothers" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -444,13 +331,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/js/controllers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/js/directives.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -500,23 +380,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="531" selection-end="531" vertical-scroll-proportion="0.38265306">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/brothers/hamiltongreene.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="19" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/brother-detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
           <folding />
         </state>
       </provider>
@@ -528,30 +394,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/brother-list.html">
+    <entry file="file://$PROJECT_DIR$/app/brothers/brothers.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="27" selection-start="35" selection-end="35" vertical-scroll-proportion="-0.625">
+        <state line="6" column="33" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/brothers/tylerlucas.json">
+    <entry file="file://$PROJECT_DIR$/app/partials/brother-list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="1" selection-start="717" selection-end="717" vertical-scroll-proportion="0.0">
+        <state line="3" column="0" selection-start="81" selection-end="81" vertical-scroll-proportion="-1.875">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/brothers/hudsonchancy.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="33" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+        <state line="3" column="28" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/brothers/brothers.json">
+    <entry file="file://$PROJECT_DIR$/app/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="33" selection-start="169" selection-end="169" vertical-scroll-proportion="0.111386135">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="92" selection-start="626" selection-end="626" vertical-scroll-proportion="-8.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/brothers/tylerlucas.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="16" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/partials/brother-detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="6" selection-start="340" selection-end="340" vertical-scroll-proportion="0.2869898">
           <folding />
         </state>
       </provider>
