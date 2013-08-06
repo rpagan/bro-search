@@ -1,24 +1,30 @@
+<!doctype html>
+<head>
+</head>
 <img ng-src="{{mainImageUrl}}" class="brother" xmlns="http://www.w3.org/1999/html">
+
 
 <style>
     ul.specs{padding-left:2%;}
     #involve{padding-right:5%;}
     #bk{padding-top: 1%;}
+    #position{padding-top: 2px;}
 </style>
+
+<!--not working hide position-->
+<script>
+    $(document).ready(function(){
+      $("#position").hide();
+    });
+</script>
 
 <h1>{{brother.name}}</h1>
 
 <p id="bk"><b>BK</b> {{brother.bk}}</p>
 
-<script>
-    $(document).ready(function(){
-        $("#position").hide();
-    })
-</script>
-
-<p id="position"><b>Position: </b>{{brother.position}}</p>
 <p><b>Description: </b>{{brother.description}}</p>
 <p><b>Favorite Aspects of Lambda Chi Alpha: </b>{{brother.aspects}}</p>
+<p id="position"><b>Positions Held:</b></p><p ng-repeat="item in brother.positions">{{item}}</p>
 
 
 <ul class="brother-thumbs">
@@ -54,10 +60,15 @@
   </li>
   <li>
     <span>Sports</span>
-      <dd ng-repeat="item in brother.quotes">{{item}}</dd>
+     <dl>
+      <dd ng-repeat="item in brother.sports">{{item}}</dd>
+     </dl>
   </li>
     <li>
         <span>Quotes</span>
+        <dl>
         <dd ng-repeat="item in brother.quotes">{{item}}</dd>
+        </dl>
     </li>
 </ul>
+</html>

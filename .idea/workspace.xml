@@ -2,9 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac19f21b-b74d-44fd-aacd-d6d3fac76caf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/favicon.ico" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/testacular-e2e.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/testacular.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/e2e-test.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/e2e-test.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/private/ScrapeData.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/private/format-json.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/private/goto_step.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/private/goto_step.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/private/push-to-github.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/private/retag.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/private/snapshot-web.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/private/snapshot.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/test-server.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/test-server.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/test.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/test.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/update-repo.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/watchr.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/e2e/runner.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/e2e/scenarios.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/lib/angular/angular-mocks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/lib/angular/angular-scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/lib/angular/version.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/controllersSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/directivesSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/filtersSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/servicesSpec.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/brothers/hamiltongreene.json" afterPath="$PROJECT_DIR$/app/brothers/hamiltongreene.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/brothers/hudsonchancy.json" afterPath="$PROJECT_DIR$/app/brothers/hudsonchancy.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/brothers/matthewcoonrod.json" afterPath="$PROJECT_DIR$/app/brothers/matthewcoonrod.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/brothers/tylerlucas.json" afterPath="$PROJECT_DIR$/app/brothers/tylerlucas.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/partials/brother-detail.html" afterPath="$PROJECT_DIR$/app/partials/brother-detail.html" />
@@ -28,37 +57,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="brother-detail.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/partials/brother-detail.html">
+      <file leaf-file-name="hamiltongreene.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/brothers/hamiltongreene.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="6" selection-start="340" selection-end="340" vertical-scroll-proportion="0.2869898">
+            <state line="11" column="15" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/js/app.js">
+      <file leaf-file-name="web-server.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/web-server.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hudsonchancy.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/brothers/hudsonchancy.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="28" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="matthewcoonrod.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/brothers/matthewcoonrod.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="28" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -67,34 +78,25 @@
       <file leaf-file-name="tylerlucas.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/brothers/tylerlucas.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="16" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0">
+            <state line="11" column="41" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="brother-list.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/partials/brother-list.html">
+      <file leaf-file-name="matthewcoonrod.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/brothers/matthewcoonrod.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="81" selection-end="81" vertical-scroll-proportion="-1.875">
+            <state line="10" column="33" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/index.html">
+      <file leaf-file-name="hudsonchancy.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/brothers/hudsonchancy.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="92" selection-start="626" selection-end="626" vertical-scroll-proportion="-8.75">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="brothers.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/brothers/brothers.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="33" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
+            <state line="11" column="17" selection-start="437" selection-end="437" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -113,21 +115,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/brothers/hamiltongreene.json" />
-        <option value="$PROJECT_DIR$/app/brothers/matthewcoonrod.json" />
         <option value="$PROJECT_DIR$/app/brothers/brothers.json" />
         <option value="$PROJECT_DIR$/app/partials/brother-list.html" />
-        <option value="$PROJECT_DIR$/app/brothers/tylerlucas.json" />
-        <option value="$PROJECT_DIR$/app/brothers/hudsonchancy.json" />
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/partials/brother-detail.html" />
+        <option value="$PROJECT_DIR$/app/brothers/matthewcoonrod.json" />
+        <option value="$PROJECT_DIR$/app/brothers/hudsonchancy.json" />
+        <option value="$PROJECT_DIR$/app/brothers/tylerlucas.json" />
+        <option value="$PROJECT_DIR$/app/brothers/hamiltongreene.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1680" />
-    <option name="height" value="956" />
+    <option name="height" value="952" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -155,7 +158,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -188,49 +190,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bro-search" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bro-search" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bro-search" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bro-search" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../cumulus" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -241,7 +209,7 @@
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -251,31 +219,32 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="ac19f21b-b74d-44fd-aacd-d6d3fac76caf" name="Default" comment="" />
       <created>1375739659739</created>
       <updated>1375739659739</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1680" height="956" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1680" height="952" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934132" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984913" sideWeight="0.6706587" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24984913" sideWeight="0.6706587" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934132" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -331,114 +300,44 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/js/directives.js">
+    <entry file="file://$PROJECT_DIR$/app/brothers/tylerlucas.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="11" column="41" selection-start="435" selection-end="435" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/filters.js">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/services.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/testacular-e2e.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/private/ScrapeData.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/e2e/runner.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/e2e/scenarios.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="3" column="50" selection-start="73" selection-end="73" vertical-scroll-proportion="0.057544757">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/brothers/hamiltongreene.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="19" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
+        <state line="11" column="15" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/brothers/matthewcoonrod.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="28" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/brothers/brothers.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="33" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/brother-list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="81" selection-end="81" vertical-scroll-proportion="-1.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/brothers/hudsonchancy.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="28" selection-start="84" selection-end="84" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/js/app.js">
+    <entry file="file://$PROJECT_DIR$/app/index-async.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
+    <entry file="file://$PROJECT_DIR$/app/lib/angular/version.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="92" selection-start="626" selection-end="626" vertical-scroll-proportion="-8.75">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/brothers/tylerlucas.json">
+    <entry file="file://$PROJECT_DIR$/scripts/web-server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="16" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/partials/brother-detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="6" selection-start="340" selection-end="340" vertical-scroll-proportion="0.2869898">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

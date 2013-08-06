@@ -12,11 +12,24 @@
   <script src="js/filters.js"></script>
   <script src="js/services.js"></script>
   <script src="lib/angular/angular-resource.js"></script>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <style>
+      #view{padding-top: 25px;}
+  </style>
+
 </head>
 <body>
 
-  <div ng-view></div>
+<div class="navbar navbar-fixed-top">
+    <div class="navbar-inner">
+        <div class="container">
+            <a href="index.html" class="brand">Bro Search</a>
+        </div>
+
+    </div>
+</div>
+
+  <div id="view" ng-view></div>
 
 </body>
 </html>
