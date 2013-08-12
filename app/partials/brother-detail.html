@@ -1,15 +1,11 @@
-<!doctype html>
-<head>
-</head>
-<img ng-src="{{mainImageUrl}}" class="brother" xmlns="http://www.w3.org/1999/html">
+    <img ng-src="{{mainImageUrl}}" class="brother" xmlns="http://www.w3.org/1999/html">
 
-
-<style>
-    ul.specs{padding-left:2%;}
-    #involve{padding-right:5%;}
-    #bk{padding-top: 1%;}
-    #position{padding-top: 2px;}
-</style>
+    <style>
+        ul.specs{padding-left:2%;}
+        #involve{padding-right:5%;}
+        #bk{padding-top: 1%;}
+        #position{padding-top: 2px;}
+    </style>
 
 <h1>{{brother.name}}</h1>
 
@@ -17,7 +13,7 @@
 
 <p><b>Description: </b>{{brother.description}}</p>
 <p><b>Favorite Aspects of Lambda Chi Alpha: </b>{{brother.aspects}}</p>
-<p id="position"><b>Positions Held:</b></p><p ng-repeat="item in brother.positions">{{item}}</p>
+<span id="position"><b>Positions Held:</b></span><p ng-repeat="item in brother.positions">{{item}}</p>
 
 
 <ul class="brother-thumbs">
@@ -64,4 +60,3 @@
         </dl>
     </li>
 </ul>
-</html>
