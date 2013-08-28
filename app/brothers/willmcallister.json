@@ -1,37 +1,38 @@
 {
     "bk": "1923",
-    "description": "ST MATTHEWS MTR FKR",
-    "aspects": "The Bros, Watermelon Bust, Mason the Dog, Cocktail Parties, Gamedays, TUG, Mixers, Date Nights, The Network, The House, The female friends.",
+    "description": "I am a Biomedical Engineering major from Charlotte, North Carolina.",
+    "aspects": "The best aspect of Lambda Chi is that we all come from very different backrounds, yet are still able to share a bond that traditionally has been reserved for biological siblings.",
     "positions": [
-     "High Kappa : Fraternity Educator, 2011"
      ],
-    "year": "Super Senior",
-    "major":  "Mechanical Engineering",
+    "year": "Sophomore",
+    "major":  "Biomedical Engineering Pre-Med",
     "involve": [
-        "Oxford Study Abroad 2011"
+        "FAB, 2012",
+        "FAB Advisor, 2013",
+        "Biomedical Engineering Student Advisory Board",
+        "Executive Round Table",
+        "IFC Social Patrol",
+        "President's Council Governing Board",
+        "American Medical Students Association"
     ],
     "interests": [
         "GT Athletics",
-        "Basketball",
-        "Roadtrips",
-        "Climbing"
+        "FAB"
     ],
     "sports": [
-        "Basketball",
-        "Running",
-        "Climbing",
-        "Snowboarding"
+        "Crew",
+        "Baseball"
     ],
     "quotes" : [
-        "\"Are you kidding me\""
+        "\"Failure is not an option\""
     ],
 
 
     "id": "willmcallister",
     "images": [
-        "img/brothers/coonrod.0.jpg",
-        "img/brothers/coonrod.1.jpg",
-        "img/brothers/coonrod.2.jpg"
+        "img/brothers/mcallister.0.jpg",
+        "img/brothers/mcallister.1.jpg",
+        "img/brothers/mcallister.2.jpg"
     ],
     "name": "Will McAllister"
 }

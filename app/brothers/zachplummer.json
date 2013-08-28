@@ -1,37 +1,32 @@
 {
     "bk": "1922",
-    "description": "ST MATTHEWS MTR FKR",
-    "aspects": "The Bros, Watermelon Bust, Mason the Dog, Cocktail Parties, Gamedays, TUG, Mixers, Date Nights, The Network, The House, The female friends.",
+    "description": "Born and raised in California, I brought the Cali life along with me.",
+    "aspects": "Everything.",
     "positions": [
-     "High Kappa : Fraternity Educator, 2011"
      ],
-    "year": "Super Senior",
-    "major":  "Mechanical Engineering",
+    "year": "Sophomore",
+    "major":  "Computer Science",
     "involve": [
-        "Oxford Study Abroad 2011"
+        "Wrestling Club"
     ],
     "interests": [
-        "GT Athletics",
-        "Basketball",
-        "Roadtrips",
-        "Climbing"
+        "Political Pragmatism"
     ],
     "sports": [
-        "Basketball",
-        "Running",
-        "Climbing",
-        "Snowboarding"
+        "Wrestling",
+        "Baseball",
+        "Basketball"
     ],
     "quotes" : [
-        "\"Are you kidding me\""
+        "\"Just buy a rack of Natty and kill it.\""
     ],
 
 
     "id": "zachplummer",
     "images": [
-        "img/brothers/coonrod.0.jpg",
-        "img/brothers/coonrod.1.jpg",
-        "img/brothers/coonrod.2.jpg"
+        "img/brothers/plummer.0.jpg",
+        "img/brothers/plummer.1.jpg",
+        "img/brothers/plummer.2.jpg"
     ],
     "name": "Zach Plummer"
 }

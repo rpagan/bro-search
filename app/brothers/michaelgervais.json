@@ -1,37 +1,40 @@
 {
     "bk": "1885",
-    "description": "ST MATTHEWS MTR FKR",
-    "aspects": "The Bros, Watermelon Bust, Mason the Dog, Cocktail Parties, Gamedays, TUG, Mixers, Date Nights, The Network, The House, The female friends.",
+    "description": "Brown Hair, Blue Green Eyes, Good Build, 6'0\" on a good day.  I like long walks on the beach, Lambda Chi is awesome.",
+    "aspects": "My favorite things about Lamda Chi are our philanthropic efforts such as Watermelon Bust, game days, Formal, Camp out, and road trips.",
     "positions": [
-     "High Kappa : Fraternity Educator, 2011"
+     "IFC Rep 2011-2012",
+     "Homecoming Chair Fall 2012"
      ],
-    "year": "Super Senior",
-    "major":  "Mechanical Engineering",
+    "year": "Junior",
+    "major":  "Civil Engineering",
     "involve": [
-        "Oxford Study Abroad 2011"
+        "GT Lacrosse",
+        "ASCE"
     ],
     "interests": [
-        "GT Athletics",
-        "Basketball",
-        "Roadtrips",
-        "Climbing"
+        "Sports",
+        "Fishing",
+        "Philanthropy",
+        "Hunting",
+        "Hanging with brothers"
     ],
     "sports": [
         "Basketball",
-        "Running",
-        "Climbing",
-        "Snowboarding"
+        "Baseball",
+        "Lacrosse",
+        "Football"
     ],
     "quotes" : [
-        "\"Are you kidding me\""
+        "\"'Why not,' is a slogan for an interesting life.  Take advantage of the opportunities before you.\""
     ],
 
 
     "id": "michaelgervais",
     "images": [
-        "img/brothers/coonrod.0.jpg",
-        "img/brothers/coonrod.1.jpg",
-        "img/brothers/coonrod.2.jpg"
+        "img/brothers/gervais.0.jpg",
+        "img/brothers/gervais.1.jpg",
+        "img/brothers/gervais.2.jpg"
     ],
     "name": "Michael Gervais"
 }

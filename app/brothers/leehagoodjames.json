@@ -1,37 +1,34 @@
 {
     "bk": "1939",
-    "description": "ST MATTHEWS MTR FKR",
-    "aspects": "The Bros, Watermelon Bust, Mason the Dog, Cocktail Parties, Gamedays, TUG, Mixers, Date Nights, The Network, The House, The female friends.",
+    "description": "I am a Mechanical Engineer from Orlando, Florida.  I wrestled throughout high school and placed sixth in Florida my senior year.",
+    "aspects": "My favorite part of Lambda Chi is how close you get to all of the awesome brothers.  Also events like Highlighter Party are a ton of fun.",
     "positions": [
-     "High Kappa : Fraternity Educator, 2011"
      ],
-    "year": "Super Senior",
+    "year": "Sophomore",
     "major":  "Mechanical Engineering",
     "involve": [
-        "Oxford Study Abroad 2011"
+        "Greek Village: Equipment Chair",
+        "Makers Club"
+
     ],
     "interests": [
-        "GT Athletics",
-        "Basketball",
-        "Roadtrips",
-        "Climbing"
+        "Wrestling",
+        "Robotics",
+        "Fun"
     ],
     "sports": [
-        "Basketball",
-        "Running",
-        "Climbing",
-        "Snowboarding"
+        "Wrestling"
     ],
     "quotes" : [
-        "\"Are you kidding me\""
+        "He answered, \"Whether he is a sinner I do not know.  One thing I do know, that though I was blind, now I see.\" John 9:25"
     ],
 
 
     "id": "leehagoodjames",
     "images": [
-        "img/brothers/coonrod.0.jpg",
-        "img/brothers/coonrod.1.jpg",
-        "img/brothers/coonrod.2.jpg"
+        "img/brothers/hagoodjames.0.jpg",
+        "img/brothers/hagoodjames.1.jpg",
+        "img/brothers/hagoodjames.2.jpg"
     ],
     "name": "Lee Hagood-James"
 }

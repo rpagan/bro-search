@@ -1,37 +1,36 @@
 {
     "bk": "1936",
-    "description": "ST MATTHEWS MTR FKR",
-    "aspects": "The Bros, Watermelon Bust, Mason the Dog, Cocktail Parties, Gamedays, TUG, Mixers, Date Nights, The Network, The House, The female friends.",
+    "description": "Hailing from Verona, NJ, Lambda Chi is one of the big things that keeps me coming back to Tech. I am a huge world soccer fan, and could talk about that, and any other sport (except the NBA,) all day. I love music, as I listen to almost everything. This fraternity is one of my biggest passions, and I love to see it succeed.",
+    "aspects": "Formal & Semi-formal, any type of Bro–Trip, the diversity and the friendly, natural atmosphere of the brotherhood, our proud history, our pride in Lambda Chi Alpha, and our school spirit.",
     "positions": [
      "High Kappa : Fraternity Educator, 2011"
      ],
-    "year": "Super Senior",
-    "major":  "Mechanical Engineering",
+    "year": "Sophomore",
+    "major":  "Industrial and Systems Engineering",
     "involve": [
-        "Oxford Study Abroad 2011"
+        "GTSF",
+        "Investments Committee"
     ],
     "interests": [
-        "GT Athletics",
-        "Basketball",
-        "Roadtrips",
-        "Climbing"
+        "Global Soccer",
+        "Music",
+        "Running",
+        "Golf"
     ],
     "sports": [
-        "Basketball",
-        "Running",
-        "Climbing",
-        "Snowboarding"
+        "Soccer",
+        "Softball"
     ],
     "quotes" : [
-        "\"Are you kidding me\""
+        "\"You'll never walk alone.\""
     ],
 
 
     "id": "philvetrano",
     "images": [
-        "img/brothers/coonrod.0.jpg",
-        "img/brothers/coonrod.1.jpg",
-        "img/brothers/coonrod.2.jpg"
+        "img/brothers/vetrano.0.jpg",
+        "img/brothers/vetrano.1.jpg",
+        "img/brothers/vetrano.2.jpg"
     ],
     "name": "Phil Vetrano"
 }
