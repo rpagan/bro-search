@@ -1,7 +1,7 @@
 {
     "bk": "1862",
-    "description": "Chillllllllll",
-    "aspects": "The Bros, Watermelon Bust, Mason the Dog, Cocktail Parties, Gamedays, TUG, Mixers, Date Nights, The Network, The House, The female friends.",
+    "description": "Bassmaster",
+    "aspects": "Brothers, gamedays, yaboi Mason, Watermelon Bust, Ritual, Beer Die, ACC Chamionship Road Trips, MCR, Wet day, The Penthouse, Brotherhood Retreat, Big Bro - Little Bro Camp Out, and the House.",
     "positions": [
         "High Beta : Internal Vice President, 2013",
         "High Delta : Recruitment Chair, 2012"
@@ -9,15 +9,17 @@
     "year": "Senior",
     "major":  "Biomedical Engineering",
     "involve": [
-        "Co-op at Bard Medical 2013",
-        "GT Research"
+        "Bard Medical",
+        "Celtaxsys",
+        "Connective Tutoring"
     ],
     "interests": [
-        "Anna",
-        "Zaxby's",
         "Fishing",
-        "Volcanoes",
-        "Shane"
+        "Wallyball",
+        "Ultimate",
+        "Zaxby's",
+        "GoT",
+        "Roadtrips"
     ],
     "quotes" : [
         "\"Rack City trick, Rack, Rack City\""
@@ -27,14 +29,14 @@
     "id": "hudsonchancy",
     "sports": [
         "Soccer",
-        "Insanity",
-        "Girlfriend-ing",
-        "The occasional B-Ball"
+        "Cornhole",
+        "Wrestling",
+        "Basketball"
     ],
     "images": [
-        "img/brothers/hudson.0.jpg",
-        "img/brothers/hudson.1.jpg",
-        "img/brothers/hudson.2.jpg"
+        "img/brothers/chancy.0.jpg",
+        "img/brothers/chancy.1.jpg",
+        "img/brothers/chancy.2.jpg"
     ],
     "name": "Hudson Chancy"
 }

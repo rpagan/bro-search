@@ -1,37 +1,36 @@
 {
     "bk": "1876",
-    "description": "ST MATTHEWS MTR FKR",
-    "aspects": "The Bros, Watermelon Bust, Mason the Dog, Cocktail Parties, Gamedays, TUG, Mixers, Date Nights, The Network, The House, The female friends.",
+    "description": "I am an Industrial Engineering major currently cooping with Coca-Cola Refreshments in midtown Atlanta.  From Gainesville, GA I am currently active in leadership positions in GT Ambassadors and SGA.  In my free time I enjoy playing music, working out, and exploring Atlanta.",
+    "aspects": "Magic Carpet Ride, Semi Formal, Formal, Band Parties, Game days.",
     "positions": [
-     "High Kappa : Fraternity Educator, 2011"
      ],
-    "year": "Super Senior",
-    "major":  "Mechanical Engineering",
+    "year": "Senior",
+    "major":  "Industrial Engineering",
     "involve": [
-        "Oxford Study Abroad 2011"
+        "Coca-Cola Business Analyst Co-Op",
+        "GT Ambassadors - VP of External Affairs",
+        "SGA - Director of Internal Affairs"
     ],
     "interests": [
-        "GT Athletics",
-        "Basketball",
-        "Roadtrips",
-        "Climbing"
+        "Guitar",
+        "Lifting",
+        "Danny Brown",
+        "Travel"
     ],
     "sports": [
-        "Basketball",
-        "Running",
-        "Climbing",
-        "Snowboarding"
+        "Soccer",
+        "Football"
     ],
     "quotes" : [
-        "\"Are you kidding me\""
+        "\"Organized sports are so fascist it makes me sick.\" - Baby Franco"
     ],
 
 
     "id": "justinluk",
     "images": [
-        "img/brothers/coonrod.0.jpg",
-        "img/brothers/coonrod.1.jpg",
-        "img/brothers/coonrod.2.jpg"
+        "img/brothers/luk.0.jpg",
+        "img/brothers/luk.1.jpg",
+        "img/brothers/luk.2.jpg"
     ],
     "name": "Justin Luk"
 }
